@@ -1,6 +1,6 @@
 # Hi there, I'm ANS YOUNAS 👋
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
+<a href="https://www.linkedin.com/in/anas-younas/">
   <img align="left" alt="Ans's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:anasmyounas05@gmail.com">
@@ -33,7 +33,7 @@ I'm a versatile developer with expertise in creating stunning mobile application
   <tr>
     <td align="center" width="96">
       <a href="#-flutterflow">
-        <img src="https://storage.googleapis.com/flutterflow-prod-public/images/ff_full_logo_2022.png" width="48" height="48" alt="FlutterFlow" />
+        <img src="https://user-images.githubusercontent.com/16632615/233023293-6117d12f-6421-4482-9712-07a81832c3b8.png" width="48" height="48" alt="FlutterFlow" />
       </a>
       <br>FlutterFlow
     </td>
